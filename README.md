@@ -13,8 +13,8 @@ Members of team
 Ideas
 -----
 
-* *Searcher* of university with Google Maps
-* *Reader* with a full definition of words
+* _Searcher_ of university with Google Maps
+* _Reader_ with a full definition of words
 * ...
 
 Resources
