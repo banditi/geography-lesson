@@ -1,7 +1,9 @@
 TheWalkingSwitches
 ==================
 
-Project MIPT Hackathon, which takes place in October 4-5.
+Project for MIPT Hackathon
+
+* * *
 
 Members of team
 ---------------
@@ -20,7 +22,7 @@ Ideas
 Resources
 ---------
 
-* [Files from Open Data of Moscow][data]
+* [Files from Open Data of Moscow] [data]
 
 Libraries
 ---------
