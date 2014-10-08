@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  border: none;
+}
+html, body {
+  height: 100%;
+}
+body {
+  font-size: 20px;
+  overflow: hidden;
+}
+.none {
+  display: none;
+}
+.center {
+  text-align: center;
+}
+#world-map {
+  width: 75%;
+  height: 100%;
+}
+#left_column {
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 100%;
+  width: 25%;
+  background-color: white;
+  border-left: 1px solid #eee;
+  z-index: 100;
+  overflow-y: scroll; 
+}
+#left_column .wrap > div:not(:empty) {
+  /*text-align: center;*/
+  padding: 10px;
+}
+
+#more-info p {
+  text-indent: 20px;
+  line-height: 1.25;
+  font-size: 16px;
+}
+
+#answer {
+  position: absolute;
+  bottom: 30px;
+  left: 30px;
+  width: 200px;
+}
+
+#info-wiki {
+
+}
+
+body .modal-wide {
+  width: 750px;
+  margin-left: -375px;
+}
+body .modal-body {
+  max-height: 500px;
+}
