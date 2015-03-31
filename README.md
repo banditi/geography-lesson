@@ -6,9 +6,9 @@ Project MIPT Hackathon, which takes place in 4th-5th of October, 2014.
 Members of team
 ---------------
 
-* Stepanov Igor via [Sigorilla][]
-* Varnavskij Vadim via [Nipel-Crumple][]
-* Kuznecov Egor via [kyza1994][]
+* Igor Stepanov via [Sigorilla][]
+* Vadim Varnavskij via [Nipel-Crumple][]
+* Egor Kuznecov via [kyza1994][]
 
 Libraries
 ---------
