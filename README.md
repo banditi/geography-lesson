@@ -1,7 +1,7 @@
-TheWalkingSwitches
+Geography Lesson
 ==================
 
-Project MIPT Hackathon, which takes place in October 4-5.
+Project MIPT Hackathon, which takes place in 4th-5th of October, 2014.
 
 Members of team
 ---------------
